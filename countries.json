@@ -2,7 +2,7 @@
     {
         "name": "Katerina",
         "age": "22",
-        "dream job": "Professional peanut butter taster🤷🏻‍♀️",
+        "dreamjob": "Professional peanut butter taster🤷🏻‍♀️",
         "image": "images/katerina.png",
         "audio": " "...ogg";
             "....mp3";
@@ -10,7 +10,7 @@
     {
         "name": "Maggie",
         "age": "24",
-        "dream job": "",
+        "dreamjob": "",
         "image": "images/maggie.png",
         "audio": " "...ogg";
             "....mp3";
@@ -18,7 +18,7 @@
     {
         "name": "Carl",
         "age": "22",
-        "dream job": "",
+        "dreamjob": "",
         "image": "images/carl.png",
         "audio": " "...ogg";
             "....mp3";
@@ -26,7 +26,7 @@
       {
         "name": "Lajos",
         "age": "30",
-        "dream job": "",
+        "dreamjob": "",
         "image": "images/lajos.png",
         "audio": " "...ogg";
             "....mp3";
@@ -34,7 +34,7 @@
       {
         "name": "Jay",
         "age": "",
-        "dream job": "";
+        "dreamjob": "";
         "image": "images/jay.png",
         "audio": " "...ogg";
             "....mp3";
