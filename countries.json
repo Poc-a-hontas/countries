@@ -4,40 +4,35 @@
         "age": "22",
         "dreamjob": "Professional peanut butter taster🤷🏻‍♀️",
         "image": "images/katerina.png",
-        "audio": " "...ogg";
-            "....mp3";
+        "audio": "....mp3";
     },
     {
         "name": "Maggie",
         "age": "24",
         "dreamjob": "",
         "image": "images/maggie.png",
-        "audio": " "...ogg";
-            "....mp3";
+        "audio": "....mp3";
     },
     {
         "name": "Carl",
         "age": "22",
         "dreamjob": "",
         "image": "images/carl.png",
-        "audio": " "...ogg";
-            "....mp3";
+        "audio": "....mp3";
     }
       {
         "name": "Lajos",
         "age": "30",
         "dreamjob": "",
         "image": "images/lajos.png",
-        "audio": " "...ogg";
-            "....mp3";
+        "audio": "....mp3";
     }
       {
         "name": "Jay",
         "age": "",
         "dreamjob": "";
         "image": "images/jay.png",
-        "audio": " "...ogg";
-            "....mp3";
+        "audio": "....mp3";
     }
  ]
 }
